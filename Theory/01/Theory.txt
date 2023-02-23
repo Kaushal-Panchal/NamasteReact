@@ -1,0 +1,19 @@
+    
+● What is Emmet?
+    It's an addon for HTML which suggest auto code.
+
+● Difference between a Library and Framework?
+    What I understood is , We can't make much changes in Framework and we can't control the flow for the same. While it's different for 
+    for Library. 
+    Libray - we control flow, Framework - Code controls the flow.
+    React is lib, Angular is framework.
+
+
+● What is CDN? Why do we use it?
+    
+
+● Why is React known as React?
+● What is crossorigin in script tag?
+● What is diference between React and ReactDOM
+● What is difference between react.development.js and react.production.js files via CDN?
+● What is async and defer? - see my Youtube video ;)
